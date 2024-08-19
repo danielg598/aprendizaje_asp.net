@@ -1,0 +1,1 @@
+primera api que voy a crear en asp .net core, la idea es repetir todo lo que habia visto y entender bien todos los conceptos replicarlos todos.
